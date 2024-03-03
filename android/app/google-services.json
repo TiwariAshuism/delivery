@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081993030727",
+    "project_id": "delievry-4ab12",
+    "storage_bucket": "delievry-4ab12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081993030727:android:27cdbce84e5161842a1562",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpjFCRTh2x_yRTqxGeSCAoxWMP4SCn4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
